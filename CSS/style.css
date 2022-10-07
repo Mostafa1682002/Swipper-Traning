@@ -10,12 +10,12 @@ body {
   justify-content: center;
   background-color: #efefef;
 }
+
 :root {
   --main-color: #007aff;
 }
 
 .slide-container {
-  max-width: 1120px;
   width: 100%;
 }
 .content {
@@ -40,7 +40,7 @@ body {
   outline: 3px solid #fff;
 }
 .content .cont-boxs .box .text {
-  padding: 10px 0;
+  padding: 10px;
 }
 .content .cont-boxs .box .text h3 {
   text-transform: capitalize;
